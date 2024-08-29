@@ -3,4 +3,4 @@
 **this text is bold**\
 ***this text is both bold and italic***\
 *this text is italics*\
-~~I made an error~~\
+~~I made an error~~
