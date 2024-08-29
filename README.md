@@ -1,4 +1,4 @@
-### PF LAB 2
+## PF LAB 2
 ###introduction-to-github\
 **this text is bold**\
 ***this text is both bold and italic***\
