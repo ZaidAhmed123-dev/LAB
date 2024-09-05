@@ -1,0 +1,16 @@
+#pf lab tasks
+swapping 
+#include<stdio.h>
+int main()
+{
+	int a,b,temp;
+	printf("enter two numbers");
+	scanf("%d %d",&a,&b);
+	printf("the value of a before swapping is %d\n",a);
+	printf("the value of b before swapping is %d\n",b);
+    temp=a;
+    a=b;
+    b=temp;
+    printf("the value of a after swapping is %d\n",a);
+    printf("the value of b after swapping is %d\n",b);
+}
